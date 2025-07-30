@@ -7,7 +7,6 @@
         dataUrl: buildUrl + "/AIAGocekDemo.data",
         frameworkUrl: buildUrl + "/AIAGocekDemo.framework.js",
         codeUrl: buildUrl + "/AIAGocekDemo.wasm",
-        symbolsUrl: buildUrl + "/AIAGocekDemo.symbols.json",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Everidea",
         productName: "aiagocekdemo",
